@@ -18,6 +18,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikot-shahriyar&" alt="saikot-shahriyar"/></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saikot-shahriyar)](https://git.io/streak-stats)
+
 
 <br> <br> <br> <br>
 <h2>🌐 Reach me out:</h2>
