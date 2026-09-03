@@ -16,9 +16,13 @@
 
 <h2>📊 GitHub Stats:</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikot-shahriyar&" alt="saikot-shahriyar"/></p>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=saikot-shahriyar)](https://git.io/streak-stats)
+
+![Shahriyar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikot-shahriyar&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikot-shahriyar&layout=compact)
+
+
 
 
 <br> <br> <br> <br>
