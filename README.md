@@ -15,11 +15,9 @@
 <br>
 
 <h2>📊 GitHub Stats:</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikot-shahriyar&show_icons=true&locale=en" alt="saikot-shahriyar"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikot-shahriyar&" alt="saikot-shahriyar"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikot-shahriyar&show_icons=true&locale=en&layout=compact" alt="saikot-shahriyar"/></p>
 
 <br> <br> <br> <br>
 <h2>🌐 Reach me out:</h2>
