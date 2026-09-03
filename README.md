@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Banner Of Md. Shahriyar Hossain's GitHub">
+
 <h1>Hello 👋, I'm Md. Shahriyar Hossain !</h1>
 <h3>A passionate frontend developer.</h3>
 <p>I’m Shahriyar, a Frontend Developer focused on building clean, responsive, and accessible web applications. I enjoy working with modern frameworks, writing maintainable code, and turning ideas into real products. Always learning, always improving.</p>
